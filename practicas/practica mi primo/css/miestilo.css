@@ -1,0 +1,54 @@
+nav {
+    height: 60px;
+    background:url('../img/papel_cuadritos.png');
+}
+nav ul {
+    list-style-type: none;
+}
+nav li{
+    padding-left:  20px; ;
+    float: left;
+}
+
+nav ul li{
+    text-decoration: none;
+    padding: 10px;
+    list-style-type: none;
+}
+footer{
+    display: inline-flex;
+padding: 10px;
+background-color: rgb(151, 211, 211);
+}
+#plans{ width: 250px;
+    height: 150px;
+    position: absolute;
+    top: 75px;
+    left: 1400px;
+}
+header{text-align:left;
+    background-color: rgb(151, 211, 211);
+}
+#content{
+    text-align: left;
+    left: 380px;
+    position: absolute;
+    
+}
+.anun3{
+position: absolute;
+top: 570px;
+left: 8px;
+}
+.anun4{
+    position: absolute;
+    top: 570px;
+    left: 137px;
+}
+
+body{
+    background-color: rgb(13, 95, 143);
+}
+section{
+    background-color: aliceblue;
+}

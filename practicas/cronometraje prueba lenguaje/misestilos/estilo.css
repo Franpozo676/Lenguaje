@@ -1,0 +1,110 @@
+body{
+    width: 1200px;
+    background-color: rgb(211, 205, 205);
+    margin: 0 auto;
+}
+#content{
+    background-color: white;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+#verde{
+background-color: lightgreen;
+}
+
+#celeste{
+background-color: lightblue;
+}
+
+#negro{
+background-color: black;
+}
+
+#naranja{
+background-color: orangered;
+}
+#turquesa{
+background-color: green;
+}
+#azul{
+    background-color: blue;
+}
+
+article{
+    float: left;
+    margin-left: 15%;
+    
+}
+aside{
+    float:right;
+    margin-top: -700px;
+    margin-right: 50px;
+}
+
+#principal{
+    float: left;
+    margin-top: -875px;
+    display: block;
+    padding-left: 100px;
+    
+    
+}
+#secundario{
+   
+    
+
+}
+#learn{
+    float:center;
+    margin-top: -500px;
+    margin-left: 400px;
+    background-color:rgb(211, 205, 205) ;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top:10px ;
+    padding-bottom: 40px;
+}
+#container{
+    
+}
+#grisC{
+    float: left;
+    margin-left:  300px; 
+    margin-top: -200px;
+    background-color:rgb(211, 205, 205) ;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top:10px ;
+    padding-bottom: 10px;
+}
+#grisO{
+    float: left;
+    margin-left:  300px; 
+    margin-top: -120px;
+    background-color:rgb(211, 205, 205) ;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top:10px ;
+    padding-bottom: 10px;
+}
+#colorpicker{
+    float: left;
+    margin-left:  700px; 
+    margin-top: -120px;
+    background-color:rgb(255, 255, 255) ;
+}
+.lado{
+display: inline-block;
+text-decoration: none;
+
+}
+#imgcolor{
+    float: left;
+    margin-left:  700px; 
+    margin-top: -200px;
+}
